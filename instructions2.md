@@ -24,25 +24,28 @@
   
 ## Task 1
 
-- Write a script that adds, subtracts, multiplies and divides two floats
-- Assign a number between 1 and 20 to each variable
-- Identify and print the result of each calculation on a separate line
+- Write a script that converts a string to an integer and then performs a simple calculation with the integer
+  - Start by assigning your age to a variable **as a string**
+  - Tell Python to convert your age -- currently stored in the variable as a string -- to an integer
+  - Then have Python calculate how many years it will be before you reach age 30
+  - Use **concatenation** to display a sentence that says how many years it will be before you turn 30
 
   ---
 
 ## Task 2
 
-- Create a CONSTANT named PI and assign it the value 3.14159
-- Define a variable `radius` that stores the length of a circle's radius (in feet)
-- Use the CONSTANT and the radius length to calculate and display the area of the circle (in square feet)
-- Include the units in your output
+- Assign the price of a grocery store item **as a float** to a variable 
+- Tell Python to convert the item price to a string (use the correct Python function to do this)
+- Display a sentence that says: Item price as a string: $ (insert item price here)
 
 ---
 
 ## Task 3
 
-- Look up the height of the Empire State Building (including its spire and the antenna) online
-- Write a script that uses a CONSTANT to convert the building's height in feet to meters
-- Use **concatenation** to display on separate lines the building's height in feet and in meters
-- Include the units in your output
+- Write a script that calculates the number of seconds in a day
+- Use CONSTANTS for the:
+    - number of hours in one day
+    - number of minutes in one hour
+    - number of seconds in one minute
+- Print an output string that displays the number of seconds in one day
 
