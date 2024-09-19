@@ -34,9 +34,10 @@
 
 ## Task 2
 
-- Assign the price of a grocery store item **as a float** to a variable 
-- Tell Python to convert the item price to a string (use the correct Python function to do this)
-- Display a sentence that says: Item price as a string: $ (insert item price here)
+- Write a script that divides two numbers and finds the remainder
+- Display the first number the user entered
+- Display the second number the user entered
+- Display the remainder and identify it as the remainder
 
 ---
 
