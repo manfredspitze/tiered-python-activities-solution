@@ -16,21 +16,25 @@
 ```
 ## Task 1
 
-- Task
-- Task
+- Write a script that adds, subtracts, multiplies and divides two variables
+- Assign a number between 1 and 20 to each variable
+- Identify and print the result of each calculation on a separate line
 
   ---
 
 ## Task 2
 
-- Task
-- Task
+- Create a CONSTANT named PI and assign it the value 3.14159
+- Define a variable `radius` that stores the length of a circle's radius (in feet)
+- Use the CONSTANT and the radius length to calculate and display the area of the circle (in square feet)
+- Include the units in your output
 
 ---
 
 ## Task 3
 
-- Task
-- Task
+- Look up the height of the Empire State Building online
+- Write a script that uses a CONSTANT to convert the building's height in feet to meters
+- Use **concatenation** to display on separate lines the building's height in feet and in meters 
 
 
