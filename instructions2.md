@@ -1,10 +1,12 @@
 ## Python: Basic Data Types & Operations 2
 
-## Getting Started
+## Finished?
 
-- Create a **public** GitHub repo named: **tiered-practice**
-    - Upload your `main.py` file to the repo
-- Submit the URL that points to your repo on Google Classroom
+- Grade your script using the checklist your teacher provides
+- Meet with your teacher
+- Show him your code
+- Revise your code if necessary
+- **No need to share your work with your teacher on this project**
 
 ## Comment Block
 
