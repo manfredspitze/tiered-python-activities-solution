@@ -47,5 +47,5 @@
     - number of hours in one day
     - number of minutes in one hour
     - number of seconds in one minute
-- Print an output string that displays the number of seconds in one day
+- Use an f-string to print a string that tells the user the number of seconds in one day
 
