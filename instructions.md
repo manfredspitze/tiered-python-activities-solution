@@ -39,7 +39,7 @@
 
 ## Task 3
 
-- Look up the height of the Empire State Building online
+- Look up the height of the Empire State Building (including its spire and the antenna) online
 - Write a script that uses a CONSTANT to convert the building's height in feet to meters
 - Use **concatenation** to display on separate lines the building's height in feet and in meters 
 
