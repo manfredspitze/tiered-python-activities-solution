@@ -14,6 +14,12 @@
 # 24 MAR 20XX
 # Basic Data Types & Operations
 ```
+
+## Your Code
+
+- Write the code for each task below in your `main.py` file
+- Use comments to label each task
+  
 ## Task 1
 
 - Write a script that adds, subtracts, multiplies and divides two variables
