@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-- Create a **public** GitHub repo named: **repo name**
+- Create a **public** GitHub repo named: **tiered-practice**
     - Upload your `main.py` file to the repo
 - Submit the URL that points to your repo on Google Classroom
 
