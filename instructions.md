@@ -6,7 +6,7 @@
     - Upload your project files to the repo
 - Submit the URL that points to your repo on Google Classroom
 
-## General Specifications
+## Your Comment Block
 
 - Add a comment block to the top of your script
 ```python
