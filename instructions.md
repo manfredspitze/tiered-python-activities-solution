@@ -3,7 +3,7 @@
 ## Getting Started
 
 - Create a **public** GitHub repo named: **repo name**
-    - Upload your project files to the repo
+    - Upload your `main.py` file to the repo
 - Submit the URL that points to your repo on Google Classroom
 
 ## Your Comment Block
