@@ -12,7 +12,7 @@
 ```python
 # Abraham Lincoln
 # 24 MAR 20XX
-# Intro to Python Variables
+# Basic Data Types & Operations
 ```
 ## Task 1
 
@@ -21,14 +21,14 @@
 
   ---
 
-## Task 1
+## Task 2
 
 - Task
 - Task
 
 ---
 
-## Task 1
+## Task 3
 
 - Task
 - Task
