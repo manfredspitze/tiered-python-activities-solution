@@ -22,7 +22,7 @@
   
 ## Task 1
 
-- Write a script that adds, subtracts, multiplies and divides two variables
+- Write a script that adds, subtracts, multiplies and divides two floats
 - Assign a number between 1 and 20 to each variable
 - Identify and print the result of each calculation on a separate line
 
